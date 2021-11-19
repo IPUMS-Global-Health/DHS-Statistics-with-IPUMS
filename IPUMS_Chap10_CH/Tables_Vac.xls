@@ -1,0 +1,1336 @@
+	%
+BCG vaccination according to card	
+0	55.9
+1	44.1
+Total	100.0
+
+BCG vaccination according to mother	
+0	56.3
+1	43.7
+Total	100.0
+
+BCG vaccination according to either source	
+0	12.2
+1	87.8
+Total	100.0
+
+Pentavalent 1st dose vaccination according to card	
+0	55.2
+1	44.8
+Total	100.0
+
+Pentavalent 1st dose vaccination according to mother	
+0	58.0
+1	42.0
+Total	100.0
+
+Pentavalent 1st dose vaccination according to either source	
+0	13.1
+1	86.9
+Total	100.0
+
+Pentavalent 2nd dose vaccination according to card	
+0	57.2
+1	42.8
+Total	100.0
+
+Pentavalent 2nd dose vaccination according to mother	
+0	65.6
+1	34.4
+Total	100.0
+
+Pentavalent 2nd dose vaccination according to either source	
+0	22.7
+1	77.3
+Total	100.0
+
+Pentavalent 3rd dose vaccination according to card	
+0	59.4
+1	40.6
+Total	100.0
+
+Pentavalent 3rd dose vaccination according to mother	
+0	78.3
+1	21.7
+Total	100.0
+
+Pentavalent 3rd dose vaccination according to either source	
+0	37.7
+1	62.3
+Total	100.0
+
+Polio at birth vaccination according to card	
+0	100.0
+Total	100.0
+
+Polio at birth vaccination according to mother	
+0	100.0
+Total	100.0
+
+Polio at birth vaccination according to either source	
+0	100.0
+Total	100.0
+
+Polio 1st dose vaccination according to card	
+0	55.2
+1	44.8
+Total	100.0
+
+Polio 1st dose vaccination according to mother	
+0	54.5
+1	45.5
+Total	100.0
+
+Polio 1st dose vaccination according to either source	
+0	9.7
+1	90.3
+Total	100.0
+
+Polio 2nd dose vaccination according to card	
+0	57.2
+1	42.8
+Total	100.0
+
+Polio 2nd dose vaccination according to mother	
+0	61.3
+1	38.7
+Total	100.0
+
+Polio 2nd dose vaccination according to either source	
+0	18.5
+1	81.5
+Total	100.0
+
+Polio 3rd dose vaccination according to card	
+0	59.1
+1	40.9
+Total	100.0
+
+Polio 3rd dose vaccination according to mother	
+0	73.9
+1	26.1
+Total	100.0
+
+Polio 3rd dose vaccination according to either source	
+0	33.0
+1	67.0
+Total	100.0
+
+Pneumococcal 1st dose vaccination according to card	
+0	100.0
+Total	100.0
+
+Pneumococcal 1st dose vaccination according to mother	
+0	100.0
+Total	100.0
+
+Pneumococcal 1st dose vaccination according to either source	
+0	100.0
+Total	100.0
+
+Pneumococcal 2nd dose vaccination according to card	
+0	100.0
+Total	100.0
+
+Pneumococcal 2nd dose vaccination according to mother	
+0	100.0
+Total	100.0
+
+Pneumococcal 2nd dose vaccination according to either source	
+0	100.0
+Total	100.0
+
+Pneumococcal 3rd dose vaccination according to card	
+0	100.0
+Total	100.0
+
+Pneumococcal 3rd dose vaccination according to mother	
+0	100.0
+Total	100.0
+
+Pneumococcal 3rd dose vaccination according to either source	
+0	100.0
+Total	100.0
+
+Rotavirus 1st dose vaccination according to card	
+0	100.0
+Total	100.0
+
+Rotavirus 1st dose vaccination according to mother	
+0	100.0
+Total	100.0
+
+Rotavirus 1st dose vaccination according to either source	
+0	100.0
+Total	100.0
+
+Rotavirus 2nd dose vaccination according to card	
+0	100.0
+Total	100.0
+
+Rotavirus 2nd dose vaccination according to mother	
+0	100.0
+Total	100.0
+
+Rotavirus 2nd dose vaccination according to either source	
+0	100.0
+Total	100.0
+
+Rotavirus 3rd dose vaccination according to card	
+0	100.0
+Total	100.0
+
+Rotavirus 3rd dose vaccination according to mother	
+0	100.0
+Total	100.0
+
+Rotavirus 3rd dose vaccination according to either source	
+0	100.0
+Total	100.0
+
+Measles vaccination according to card	
+0	61.3
+1	38.7
+Total	100.0
+
+Measles vaccination according to mother	
+0	61.7
+1	38.3
+Total	100.0
+
+Measles vaccination according to either source	
+0	22.9
+1	77.1
+Total	100.0
+
+All basic vaccinations according to card	
+0	63.6
+1	36.4
+Total	100.0
+
+All basic vaccinations according to mother	
+0	81.6
+1	18.4
+Total	100.0
+
+All basic vaccinations according to either source	
+0	45.2
+1	54.8
+Total	100.0
+
+No vaccinations according to card	
+0	100.0
+Total	100.0
+
+No vaccinations according to mother	
+0	92.1
+1	7.9
+Total	100.0
+
+No vaccinations according to either source	
+0	92.1
+1	7.9
+Total	100.0
+
+	BCG vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	10.9	89.1	100.0
+female	13.9	86.1	100.0
+Total	12.2	87.8	100.0
+
+birth_order			
+1	13.7	86.3	100.0
+2-3	10.6	89.4	100.0
+4-5	9.1	90.9	100.0
+6+	21.4	78.6	100.0
+Total	12.2	87.8	100.0
+
+Vaccination card seen			
+0	20.7	79.3	100.0
+1	1.8	98.2	100.0
+Total	12.2	87.8	100.0
+
+urban-rural status			
+urban	8.2	91.8	100.0
+rural	13.6	86.4	100.0
+Total	12.2	87.8	100.0
+
+highest educational level			
+no education	28.4	71.6	100.0
+primary	10.8	89.2	100.0
+secondary	9.0	91.0	100.0
+higher	4.0	96.0	100.0
+Total	12.2	87.8	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	8.8	91.2	100.0
+kayah	0.0	100.0	100.0
+kayin	11.6	88.4	100.0
+chin	7.3	92.7	100.0
+sagaing	13.5	86.5	100.0
+taninthayi	1.9	98.1	100.0
+bago	5.5	94.5	100.0
+magway	2.2	97.8	100.0
+mandalay	6.6	93.4	100.0
+mon	4.6	95.4	100.0
+rakhine	11.9	88.1	100.0
+yangon	3.6	96.4	100.0
+shan	23.9	76.1	100.0
+ayeyarwaddy	25.5	74.5	100.0
+naypyitaw	2.3	97.7	100.0
+Total	12.2	87.8	100.0
+
+household wealth index in quintiles			
+poorest	13.9	86.1	100.0
+poorer	22.9	77.1	100.0
+middle	13.6	86.4	100.0
+richer	4.3	95.7	100.0
+richest	2.2	97.8	100.0
+Total	12.2	87.8	100.0
+
+	Pentavalent 1st dose vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	11.9	88.1	100.0
+female	14.8	85.2	100.0
+Total	13.1	86.9	100.0
+
+birth_order			
+1	14.1	85.9	100.0
+2-3	11.5	88.5	100.0
+4-5	10.7	89.3	100.0
+6+	23.7	76.3	100.0
+Total	13.1	86.9	100.0
+
+Vaccination card seen			
+0	23.7	76.3	100.0
+1	0.2	99.8	100.0
+Total	13.1	86.9	100.0
+
+urban-rural status			
+urban	9.0	91.0	100.0
+rural	14.6	85.4	100.0
+Total	13.1	86.9	100.0
+
+highest educational level			
+no education	29.9	70.1	100.0
+primary	11.7	88.3	100.0
+secondary	9.9	90.1	100.0
+higher	4.0	96.0	100.0
+Total	13.1	86.9	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	1.6	98.4	100.0
+kayah	0.0	100.0	100.0
+kayin	13.1	86.9	100.0
+chin	8.5	91.5	100.0
+sagaing	13.5	86.5	100.0
+taninthayi	1.9	98.1	100.0
+bago	16.6	83.4	100.0
+magway	6.7	93.3	100.0
+mandalay	6.6	93.4	100.0
+mon	4.6	95.4	100.0
+rakhine	9.4	90.6	100.0
+yangon	3.6	96.4	100.0
+shan	25.3	74.7	100.0
+ayeyarwaddy	23.3	76.7	100.0
+naypyitaw	9.0	91.0	100.0
+Total	13.1	86.9	100.0
+
+household wealth index in quintiles			
+poorest	18.1	81.9	100.0
+poorer	18.9	81.1	100.0
+middle	18.3	81.7	100.0
+richer	2.2	97.8	100.0
+richest	3.7	96.3	100.0
+Total	13.1	86.9	100.0
+
+	Pentavalent 2nd dose vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	20.5	79.5	100.0
+female	25.6	74.4	100.0
+Total	22.7	77.3	100.0
+
+birth_order			
+1	22.6	77.4	100.0
+2-3	20.3	79.7	100.0
+4-5	24.6	75.4	100.0
+6+	36.6	63.4	100.0
+Total	22.7	77.3	100.0
+
+Vaccination card seen			
+0	37.5	62.5	100.0
+1	4.7	95.3	100.0
+Total	22.7	77.3	100.0
+
+urban-rural status			
+urban	15.0	85.0	100.0
+rural	25.5	74.5	100.0
+Total	22.7	77.3	100.0
+
+highest educational level			
+no education	40.2	59.8	100.0
+primary	23.3	76.7	100.0
+secondary	18.3	81.7	100.0
+higher	6.3	93.7	100.0
+Total	22.7	77.3	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	15.9	84.1	100.0
+kayah	3.0	97.0	100.0
+kayin	21.2	78.8	100.0
+chin	17.2	82.8	100.0
+sagaing	18.0	82.0	100.0
+taninthayi	18.4	81.6	100.0
+bago	24.7	75.3	100.0
+magway	13.4	86.6	100.0
+mandalay	8.8	91.2	100.0
+mon	11.4	88.6	100.0
+rakhine	21.3	78.7	100.0
+yangon	12.0	88.0	100.0
+shan	35.2	64.8	100.0
+ayeyarwaddy	41.5	58.5	100.0
+naypyitaw	22.4	77.6	100.0
+Total	22.7	77.3	100.0
+
+household wealth index in quintiles			
+poorest	31.5	68.5	100.0
+poorer	33.2	66.8	100.0
+middle	23.0	77.0	100.0
+richer	10.9	89.1	100.0
+richest	6.3	93.7	100.0
+Total	22.7	77.3	100.0
+
+	Pentavalent 3rd dose vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	36.5	63.5	100.0
+female	39.3	60.7	100.0
+Total	37.7	62.3	100.0
+
+birth_order			
+1	38.5	61.5	100.0
+2-3	34.3	65.7	100.0
+4-5	41.0	59.0	100.0
+6+	50.2	49.8	100.0
+Total	37.7	62.3	100.0
+
+Vaccination card seen			
+0	60.5	39.5	100.0
+1	9.8	90.2	100.0
+Total	37.7	62.3	100.0
+
+urban-rural status			
+urban	24.8	75.2	100.0
+rural	42.2	57.8	100.0
+Total	37.7	62.3	100.0
+
+highest educational level			
+no education	56.3	43.7	100.0
+primary	39.6	60.4	100.0
+secondary	32.0	68.0	100.0
+higher	16.3	83.7	100.0
+Total	37.7	62.3	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	26.4	73.6	100.0
+kayah	15.2	84.8	100.0
+kayin	29.1	70.9	100.0
+chin	35.3	64.7	100.0
+sagaing	28.5	71.5	100.0
+taninthayi	38.2	61.8	100.0
+bago	43.7	56.3	100.0
+magway	38.2	61.8	100.0
+mandalay	11.8	88.2	100.0
+mon	31.3	68.7	100.0
+rakhine	51.7	48.3	100.0
+yangon	24.0	76.0	100.0
+shan	46.1	53.9	100.0
+ayeyarwaddy	59.2	40.8	100.0
+naypyitaw	40.1	59.9	100.0
+Total	37.7	62.3	100.0
+
+household wealth index in quintiles			
+poorest	50.9	49.1	100.0
+poorer	50.6	49.4	100.0
+middle	32.7	67.3	100.0
+richer	26.0	74.0	100.0
+richest	15.6	84.4	100.0
+Total	37.7	62.3	100.0
+
+	Polio at birth vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Polio 1st dose vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	8.0	92.0	100.0
+female	11.8	88.2	100.0
+Total	9.7	90.3	100.0
+
+birth_order			
+1	9.8	90.2	100.0
+2-3	8.0	92.0	100.0
+4-5	9.9	90.1	100.0
+6+	20.1	79.9	100.0
+Total	9.7	90.3	100.0
+
+Vaccination card seen			
+0	17.4	82.6	100.0
+1	0.2	99.8	100.0
+Total	9.7	90.3	100.0
+
+urban-rural status			
+urban	6.7	93.3	100.0
+rural	10.7	89.3	100.0
+Total	9.7	90.3	100.0
+
+highest educational level			
+no education	25.9	74.1	100.0
+primary	7.1	92.9	100.0
+secondary	7.5	92.5	100.0
+higher	4.0	96.0	100.0
+Total	9.7	90.3	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	3.2	96.8	100.0
+kayah	0.0	100.0	100.0
+kayin	10.0	90.0	100.0
+chin	6.1	93.9	100.0
+sagaing	13.5	86.5	100.0
+taninthayi	7.5	92.5	100.0
+bago	11.8	88.2	100.0
+magway	0.0	100.0	100.0
+mandalay	6.6	93.4	100.0
+mon	2.3	97.7	100.0
+rakhine	4.4	95.6	100.0
+yangon	1.9	98.1	100.0
+shan	21.5	78.5	100.0
+ayeyarwaddy	13.5	86.5	100.0
+naypyitaw	9.2	90.8	100.0
+Total	9.7	90.3	100.0
+
+household wealth index in quintiles			
+poorest	12.6	87.4	100.0
+poorer	16.8	83.2	100.0
+middle	10.7	89.3	100.0
+richer	2.2	97.8	100.0
+richest	2.2	97.8	100.0
+Total	9.7	90.3	100.0
+
+	Polio 2nd dose vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	17.1	82.9	100.0
+female	20.2	79.8	100.0
+Total	18.5	81.5	100.0
+
+birth_order			
+1	19.1	80.9	100.0
+2-3	16.8	83.2	100.0
+4-5	15.5	84.5	100.0
+6+	32.8	67.2	100.0
+Total	18.5	81.5	100.0
+
+Vaccination card seen			
+0	29.8	70.2	100.0
+1	4.7	95.3	100.0
+Total	18.5	81.5	100.0
+
+urban-rural status			
+urban	11.7	88.3	100.0
+rural	20.9	79.1	100.0
+Total	18.5	81.5	100.0
+
+highest educational level			
+no education	35.0	65.0	100.0
+primary	18.1	81.9	100.0
+secondary	15.3	84.7	100.0
+higher	4.0	96.0	100.0
+Total	18.5	81.5	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	14.3	85.7	100.0
+kayah	1.5	98.5	100.0
+kayin	16.3	83.7	100.0
+chin	9.7	90.3	100.0
+sagaing	18.0	82.0	100.0
+taninthayi	15.0	85.0	100.0
+bago	20.0	80.0	100.0
+magway	6.7	93.3	100.0
+mandalay	6.6	93.4	100.0
+mon	9.2	90.8	100.0
+rakhine	9.8	90.2	100.0
+yangon	10.0	90.0	100.0
+shan	32.6	67.4	100.0
+ayeyarwaddy	34.0	66.0	100.0
+naypyitaw	18.3	81.7	100.0
+Total	18.5	81.5	100.0
+
+household wealth index in quintiles			
+poorest	25.6	74.4	100.0
+poorer	29.5	70.5	100.0
+middle	19.9	80.1	100.0
+richer	6.3	93.7	100.0
+richest	3.3	96.7	100.0
+Total	18.5	81.5	100.0
+
+	Polio 3rd dose vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	31.3	68.7	100.0
+female	35.1	64.9	100.0
+Total	33.0	67.0	100.0
+
+birth_order			
+1	34.8	65.2	100.0
+2-3	30.0	70.0	100.0
+4-5	31.2	68.8	100.0
+6+	46.1	53.9	100.0
+Total	33.0	67.0	100.0
+
+Vaccination card seen			
+0	52.5	47.5	100.0
+1	9.0	91.0	100.0
+Total	33.0	67.0	100.0
+
+urban-rural status			
+urban	24.0	76.0	100.0
+rural	36.1	63.9	100.0
+Total	33.0	67.0	100.0
+
+highest educational level			
+no education	48.5	51.5	100.0
+primary	33.7	66.3	100.0
+secondary	30.8	69.2	100.0
+higher	10.0	90.0	100.0
+Total	33.0	67.0	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	29.6	70.4	100.0
+kayah	15.2	84.8	100.0
+kayin	27.5	72.5	100.0
+chin	30.1	69.9	100.0
+sagaing	28.5	71.5	100.0
+taninthayi	32.7	67.3	100.0
+bago	41.0	59.0	100.0
+magway	31.8	68.2	100.0
+mandalay	9.9	90.1	100.0
+mon	24.7	75.3	100.0
+rakhine	27.8	72.2	100.0
+yangon	22.0	78.0	100.0
+shan	47.3	52.7	100.0
+ayeyarwaddy	48.4	51.6	100.0
+naypyitaw	40.4	59.6	100.0
+Total	33.0	67.0	100.0
+
+household wealth index in quintiles			
+poorest	43.6	56.4	100.0
+poorer	45.4	54.6	100.0
+middle	29.3	70.7	100.0
+richer	21.1	78.9	100.0
+richest	14.6	85.4	100.0
+Total	33.0	67.0	100.0
+
+	Pneumococcal 1st dose vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Pneumococcal 2nd dose vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Pneumococcal 3rd dose vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Rotavirus 1st dose vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Rotavirus 2nd dose vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Rotavirus 3rd dose vaccination according to either source	
+	0	Total
+	%	%
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+birth_order		
+1	100.0	100.0
+2-3	100.0	100.0
+4-5	100.0	100.0
+6+	100.0	100.0
+Total	100.0	100.0
+
+Vaccination card seen		
+0	100.0	100.0
+1	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Measles vaccination according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	20.6	79.4	100.0
+female	25.9	74.1	100.0
+Total	22.9	77.1	100.0
+
+birth_order			
+1	23.3	76.7	100.0
+2-3	21.1	78.9	100.0
+4-5	23.8	76.2	100.0
+6+	32.2	67.8	100.0
+Total	22.9	77.1	100.0
+
+Vaccination card seen			
+0	30.4	69.6	100.0
+1	13.8	86.2	100.0
+Total	22.9	77.1	100.0
+
+urban-rural status			
+urban	18.3	81.7	100.0
+rural	24.5	75.5	100.0
+Total	22.9	77.1	100.0
+
+highest educational level			
+no education	39.3	60.7	100.0
+primary	20.4	79.6	100.0
+secondary	22.9	77.1	100.0
+higher	8.7	91.3	100.0
+Total	22.9	77.1	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	18.1	81.9	100.0
+kayah	4.4	95.6	100.0
+kayin	17.4	82.6	100.0
+chin	27.0	73.0	100.0
+sagaing	23.1	76.9	100.0
+taninthayi	15.1	84.9	100.0
+bago	22.4	77.6	100.0
+magway	9.0	91.0	100.0
+mandalay	13.5	86.5	100.0
+mon	15.6	84.4	100.0
+rakhine	26.6	73.4	100.0
+yangon	20.3	79.7	100.0
+shan	36.3	63.7	100.0
+ayeyarwaddy	29.4	70.6	100.0
+naypyitaw	14.2	85.8	100.0
+Total	22.9	77.1	100.0
+
+household wealth index in quintiles			
+poorest	24.9	75.1	100.0
+poorer	39.0	61.0	100.0
+middle	19.9	80.1	100.0
+richer	16.5	83.5	100.0
+richest	8.0	92.0	100.0
+Total	22.9	77.1	100.0
+
+	All basic vaccinations according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	42.1	57.9	100.0
+female	49.1	50.9	100.0
+Total	45.2	54.8	100.0
+
+birth_order			
+1	46.3	53.7	100.0
+2-3	42.1	57.9	100.0
+4-5	47.9	52.1	100.0
+6+	54.7	45.3	100.0
+Total	45.2	54.8	100.0
+
+Vaccination card seen			
+0	66.5	33.5	100.0
+1	19.1	80.9	100.0
+Total	45.2	54.8	100.0
+
+urban-rural status			
+urban	32.5	67.5	100.0
+rural	49.6	50.4	100.0
+Total	45.2	54.8	100.0
+
+highest educational level			
+no education	59.0	41.0	100.0
+primary	46.4	53.6	100.0
+secondary	43.6	56.4	100.0
+higher	20.4	79.6	100.0
+Total	45.2	54.8	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	40.6	59.4	100.0
+kayah	19.7	80.3	100.0
+kayin	35.0	65.0	100.0
+chin	47.0	53.0	100.0
+sagaing	33.6	66.4	100.0
+taninthayi	47.6	52.4	100.0
+bago	53.3	46.7	100.0
+magway	41.8	58.2	100.0
+mandalay	18.7	81.3	100.0
+mon	35.6	64.4	100.0
+rakhine	59.0	41.0	100.0
+yangon	32.6	67.4	100.0
+shan	54.3	45.7	100.0
+ayeyarwaddy	66.2	33.8	100.0
+naypyitaw	50.6	49.4	100.0
+Total	45.2	54.8	100.0
+
+household wealth index in quintiles			
+poorest	58.8	41.2	100.0
+poorer	59.5	40.5	100.0
+middle	35.8	64.2	100.0
+richer	35.1	64.9	100.0
+richest	22.9	77.1	100.0
+Total	45.2	54.8	100.0
+
+	No vaccinations according to either source		
+	0	1	Total
+	%	%	%
+sex of child			
+male	93.2	6.8	100.0
+female	90.7	9.3	100.0
+Total	92.1	7.9	100.0
+
+birth_order			
+1	91.0	9.0	100.0
+2-3	94.2	5.8	100.0
+4-5	92.2	7.8	100.0
+6+	83.7	16.3	100.0
+Total	92.1	7.9	100.0
+
+Vaccination card seen			
+0	85.7	14.3	100.0
+1	100.0	0.0	100.0
+Total	92.1	7.9	100.0
+
+urban-rural status			
+urban	95.0	5.0	100.0
+rural	91.1	8.9	100.0
+Total	92.1	7.9	100.0
+
+highest educational level			
+no education	76.8	23.2	100.0
+primary	95.2	4.8	100.0
+secondary	93.6	6.4	100.0
+higher	96.0	4.0	100.0
+Total	92.1	7.9	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	98.4	1.6	100.0
+kayah	100.0	0.0	100.0
+kayin	93.1	6.9	100.0
+chin	95.1	4.9	100.0
+sagaing	86.5	13.5	100.0
+taninthayi	98.1	1.9	100.0
+bago	96.1	3.9	100.0
+magway	100.0	0.0	100.0
+mandalay	93.4	6.6	100.0
+mon	97.7	2.3	100.0
+rakhine	95.6	4.4	100.0
+yangon	98.1	1.9	100.0
+shan	81.3	18.7	100.0
+ayeyarwaddy	88.1	11.9	100.0
+naypyitaw	97.7	2.3	100.0
+Total	92.1	7.9	100.0
+
+household wealth index in quintiles			
+poorest	91.7	8.3	100.0
+poorer	84.1	15.9	100.0
+middle	91.4	8.6	100.0
+richer	98.1	1.9	100.0
+richest	97.8	2.2	100.0
+Total	92.1	7.9	100.0
+
+	Ever had a vacciation card		
+	0	1	Total
+	%	%	%
+sex of child			
+male	27.5	72.5	100.0
+female	25.7	74.3	100.0
+Total	26.7	73.3	100.0
+
+birth_order			
+1	28.7	71.3	100.0
+2-3	21.5	78.5	100.0
+4-5	33.6	66.4	100.0
+6+	37.3	62.7	100.0
+Total	26.7	73.3	100.0
+
+Vaccination card seen			
+0	48.6	51.4	100.0
+1	0.0	100.0	100.0
+Total	26.7	73.3	100.0
+
+urban-rural status			
+urban	11.6	88.4	100.0
+rural	32.0	68.0	100.0
+Total	26.7	73.3	100.0
+
+highest educational level			
+no education	42.8	57.2	100.0
+primary	28.3	71.7	100.0
+secondary	20.6	79.4	100.0
+higher	13.2	86.8	100.0
+Total	26.7	73.3	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	14.5	85.5	100.0
+kayah	31.5	68.5	100.0
+kayin	13.4	86.6	100.0
+chin	63.1	36.9	100.0
+sagaing	27.4	72.6	100.0
+taninthayi	27.5	72.5	100.0
+bago	36.4	63.6	100.0
+magway	35.3	64.7	100.0
+mandalay	4.7	95.3	100.0
+mon	11.3	88.7	100.0
+rakhine	51.4	48.6	100.0
+yangon	3.6	96.4	100.0
+shan	33.0	67.0	100.0
+ayeyarwaddy	35.4	64.6	100.0
+naypyitaw	32.8	67.2	100.0
+Total	26.7	73.3	100.0
+
+household wealth index in quintiles			
+poorest	39.8	60.2	100.0
+poorer	36.6	63.4	100.0
+middle	26.3	73.7	100.0
+richer	16.7	83.3	100.0
+richest	2.8	97.2	100.0
+Total	26.7	73.3	100.0
+
+	Vaccination card seen		
+	0	1	Total
+	%	%	%
+sex of child			
+male	55.4	44.6	100.0
+female	54.6	45.4	100.0
+Total	55.1	44.9	100.0
+
+birth_order			
+1	58.4	41.6	100.0
+2-3	49.0	51.0	100.0
+4-5	64.6	35.4	100.0
+6+	58.3	41.7	100.0
+Total	55.1	44.9	100.0
+
+Vaccination card seen			
+0	100.0	0.0	100.0
+1	0.0	100.0	100.0
+Total	55.1	44.9	100.0
+
+urban-rural status			
+urban	44.7	55.3	100.0
+rural	58.7	41.3	100.0
+Total	55.1	44.9	100.0
+
+highest educational level			
+no education	72.4	27.6	100.0
+primary	55.6	44.4	100.0
+secondary	49.6	50.4	100.0
+higher	42.0	58.0	100.0
+Total	55.1	44.9	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	44.7	55.3	100.0
+kayah	53.0	47.0	100.0
+kayin	34.2	65.8	100.0
+chin	84.3	15.7	100.0
+sagaing	41.1	58.9	100.0
+taninthayi	55.6	44.4	100.0
+bago	55.9	44.1	100.0
+magway	57.0	43.0	100.0
+mandalay	40.1	59.9	100.0
+mon	53.9	46.1	100.0
+rakhine	86.7	13.3	100.0
+yangon	33.2	66.8	100.0
+shan	63.6	36.4	100.0
+ayeyarwaddy	66.4	33.6	100.0
+naypyitaw	74.9	25.1	100.0
+Total	55.1	44.9	100.0
+
+household wealth index in quintiles			
+poorest	68.5	31.5	100.0
+poorer	59.3	40.7	100.0
+middle	53.5	46.5	100.0
+richer	48.4	51.6	100.0
+richest	35.4	64.6	100.0
+Total	55.1	44.9	100.0
+

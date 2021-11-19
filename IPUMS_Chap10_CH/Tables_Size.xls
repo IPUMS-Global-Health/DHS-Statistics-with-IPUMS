@@ -1,0 +1,177 @@
+	RECODE of birthsz (size of child at birth (subjective report))				
+	Very small	Smaller than average	Average or larger	Don't know/missing	Total
+	%	%	%	%	%
+mo_age_at_birth					
+<20	1.7	9.9	84.5	3.9	100.0
+20-34	1.7	10.6	83.9	3.8	100.0
+35-49	1.3	14.0	80.7	3.9	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+birth_order					
+1	1.5	11.6	84.2	2.7	100.0
+2-3	1.6	10.2	84.1	4.1	100.0
+4-5	2.0	11.4	80.9	5.8	100.0
+6+	1.6	13.7	81.1	3.6	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+smoke					
+Smokes cigarettes/tobacco	3.6	20.0	73.8	2.5	100.0
+Does not smoke	1.5	10.7	83.9	3.9	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+urban-rural status					
+urban	1.0	9.0	88.3	1.7	100.0
+rural	1.8	11.8	82.0	4.4	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+highest educational level					
+no education	2.4	14.2	77.6	5.8	100.0
+primary	1.4	10.6	84.2	3.9	100.0
+secondary	1.8	10.3	84.8	3.1	100.0
+higher	0.4	10.8	87.5	1.3	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+myanmar regions, 2015 [gis]					
+kachin	0.7	15.7	77.9	5.6	100.0
+kayah	0.8	8.0	90.4	0.8	100.0
+kayin	3.6	22.0	70.7	3.7	100.0
+chin	0.0	15.5	84.5	0.0	100.0
+sagaing	1.8	9.9	81.9	6.4	100.0
+taninthayi	0.0	5.9	85.0	9.1	100.0
+bago	2.3	10.0	86.9	0.8	100.0
+magway	0.7	8.7	84.9	5.7	100.0
+mandalay	1.2	17.5	81.0	0.4	100.0
+mon	0.4	13.0	78.4	8.2	100.0
+rakhine	5.5	19.5	73.4	1.6	100.0
+yangon	1.0	4.1	90.5	4.4	100.0
+shan	1.6	9.6	83.8	5.0	100.0
+ayeyarwaddy	1.1	9.3	88.0	1.7	100.0
+naypyitaw	0.8	7.4	83.3	8.5	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+household wealth index in quintiles					
+poorest	2.2	12.1	81.3	4.5	100.0
+poorer	1.6	10.9	82.6	4.9	100.0
+middle	1.8	11.6	80.9	5.8	100.0
+richer	1.2	9.2	87.5	2.1	100.0
+richest	0.7	11.6	87.1	0.6	100.0
+Total	1.6	11.2	83.4	3.8	100.0
+
+	RECODE of birthwt (birthweight in kilos)		
+	0	1	Total
+	%	%	%
+mo_age_at_birth			
+<20	11.6	88.4	100.0
+20-34	8.0	92.0	100.0
+35-49	8.4	91.6	100.0
+Total	8.3	91.7	100.0
+
+birth_order			
+1	9.5	90.5	100.0
+2-3	8.0	92.0	100.0
+4-5	7.4	92.6	100.0
+6+	6.9	93.1	100.0
+Total	8.3	91.7	100.0
+
+smoke			
+Smokes cigarettes/tobacco	7.3	92.7	100.0
+Does not smoke	8.4	91.6	100.0
+Total	8.3	91.7	100.0
+
+urban-rural status			
+urban	8.0	92.0	100.0
+rural	8.4	91.6	100.0
+Total	8.3	91.7	100.0
+
+highest educational level			
+no education	6.4	93.6	100.0
+primary	9.7	90.3	100.0
+secondary	8.3	91.7	100.0
+higher	5.0	95.0	100.0
+Total	8.3	91.7	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	14.8	85.2	100.0
+kayah	9.8	90.2	100.0
+kayin	5.2	94.8	100.0
+chin	7.1	92.9	100.0
+sagaing	7.7	92.3	100.0
+taninthayi	10.2	89.8	100.0
+bago	5.8	94.2	100.0
+magway	20.6	79.4	100.0
+mandalay	9.0	91.0	100.0
+mon	8.1	91.9	100.0
+rakhine	7.3	92.7	100.0
+yangon	7.8	92.2	100.0
+shan	4.9	95.1	100.0
+ayeyarwaddy	6.0	94.0	100.0
+naypyitaw	12.5	87.5	100.0
+Total	8.3	91.7	100.0
+
+household wealth index in quintiles			
+poorest	7.8	92.2	100.0
+poorer	7.5	92.5	100.0
+middle	11.8	88.2	100.0
+richer	8.3	91.7	100.0
+richest	6.7	93.3	100.0
+Total	8.3	91.7	100.0
+
+	RECODE of birthwt (birthweight in kilos)		
+	0	1	Total
+	%	%	%
+mo_age_at_birth			
+<20	95.7	4.3	100.0
+20-34	95.8	4.2	100.0
+35-49	96.9	3.1	100.0
+Total	96.0	4.0	100.0
+
+birth_order			
+1	94.7	5.3	100.0
+2-3	95.9	4.1	100.0
+4-5	98.1	1.9	100.0
+6+	98.2	1.8	100.0
+Total	96.0	4.0	100.0
+
+smoke			
+Smokes cigarettes/tobacco	97.1	2.9	100.0
+Does not smoke	95.9	4.1	100.0
+Total	96.0	4.0	100.0
+
+urban-rural status			
+urban	93.7	6.3	100.0
+rural	96.7	3.3	100.0
+Total	96.0	4.0	100.0
+
+highest educational level			
+no education	97.6	2.4	100.0
+primary	96.7	3.3	100.0
+secondary	94.8	5.2	100.0
+higher	92.1	7.9	100.0
+Total	96.0	4.0	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	97.6	2.4	100.0
+kayah	96.2	3.8	100.0
+kayin	95.7	4.3	100.0
+chin	96.4	3.6	100.0
+sagaing	95.7	4.3	100.0
+taninthayi	98.3	1.7	100.0
+bago	96.2	3.8	100.0
+magway	98.0	2.0	100.0
+mandalay	94.9	5.1	100.0
+mon	96.1	3.9	100.0
+rakhine	97.3	2.7	100.0
+yangon	95.6	4.4	100.0
+shan	96.4	3.6	100.0
+ayeyarwaddy	94.3	5.7	100.0
+naypyitaw	95.2	4.8	100.0
+Total	96.0	4.0	100.0
+
+household wealth index in quintiles			
+poorest	98.4	1.6	100.0
+poorer	97.1	2.9	100.0
+middle	94.1	5.9	100.0
+richer	94.6	5.4	100.0
+richest	93.0	7.0	100.0
+Total	96.0	4.0	100.0
+

@@ -1,0 +1,1023 @@
+	Diarrhea in the 2 weeks before the survey		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	93.8	6.2	100.0
+6-11	86.2	13.8	100.0
+12-23	82.9	17.1	100.0
+24-35	88.4	11.6	100.0
+36-47	92.0	8.0	100.0
+48-59	94.7	5.3	100.0
+Total	89.6	10.4	100.0
+
+sex of child			
+male	89.5	10.5	100.0
+female	89.7	10.3	100.0
+Total	89.6	10.4	100.0
+
+urban-rural status			
+urban	91.6	8.4	100.0
+rural	89.0	11.0	100.0
+Total	89.6	10.4	100.0
+
+highest educational level			
+no education	89.3	10.7	100.0
+primary	89.5	10.5	100.0
+secondary	88.6	11.4	100.0
+higher	93.9	6.1	100.0
+Total	89.6	10.4	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	80.0	20.0	100.0
+kayah	89.4	10.6	100.0
+kayin	83.5	16.5	100.0
+chin	75.6	24.4	100.0
+sagaing	93.9	6.1	100.0
+taninthayi	92.1	7.9	100.0
+bago	93.0	7.0	100.0
+magway	91.6	8.4	100.0
+mandalay	91.3	8.7	100.0
+mon	92.5	7.5	100.0
+rakhine	86.1	13.9	100.0
+yangon	95.2	4.8	100.0
+shan	89.8	10.2	100.0
+ayeyarwaddy	82.8	17.2	100.0
+naypyitaw	91.4	8.6	100.0
+Total	89.6	10.4	100.0
+
+household wealth index in quintiles			
+poorest	87.8	12.2	100.0
+poorer	87.4	12.6	100.0
+middle	90.3	9.7	100.0
+richer	92.1	7.9	100.0
+richest	92.7	7.3	100.0
+Total	89.6	10.4	100.0
+
+	Advice or treatment sought for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	10.0	90.0	100.0
+6-11	4.2	95.8	100.0
+12-23	8.2	91.8	100.0
+24-35	12.6	87.4	100.0
+36-47	11.9	88.1	100.0
+48-59	11.5	88.5	100.0
+Total	9.6	90.4	100.0
+
+sex of child			
+male	9.1	90.9	100.0
+female	10.2	89.8	100.0
+Total	9.6	90.4	100.0
+
+urban-rural status			
+urban	12.0	88.0	100.0
+rural	9.1	90.9	100.0
+Total	9.6	90.4	100.0
+
+highest educational level			
+no education	11.8	88.2	100.0
+primary	9.2	90.8	100.0
+secondary	9.3	90.7	100.0
+higher	7.8	92.2	100.0
+Total	9.6	90.4	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	12.0	88.0	100.0
+kayah	2.5	97.5	100.0
+kayin	16.9	83.1	100.0
+chin	5.6	94.4	100.0
+sagaing	13.6	86.4	100.0
+taninthayi	21.2	78.8	100.0
+bago	4.3	95.7	100.0
+magway	3.2	96.8	100.0
+mandalay	9.5	90.5	100.0
+mon	21.3	78.7	100.0
+rakhine	25.4	74.6	100.0
+yangon	0.0	100.0	100.0
+shan	1.7	98.3	100.0
+ayeyarwaddy	7.0	93.0	100.0
+naypyitaw	14.9	85.1	100.0
+Total	9.6	90.4	100.0
+
+household wealth index in quintiles			
+poorest	11.7	88.3	100.0
+poorer	8.5	91.5	100.0
+middle	9.9	90.1	100.0
+richer	8.1	91.9	100.0
+richest	7.2	92.8	100.0
+Total	9.6	90.4	100.0
+
+	Amount of liquids given for child with diarrhea						
+	More	Same as usual	Somewhat less	Much less	None	Don't know/missing	Total
+	%	%	%	%	%	%	%
+RECODE of age							
+<6	13.8	80.7	4.9	0.5	0.0	0.0	100.0
+6-11	11.2	61.5	14.4	7.4	2.6	3.0	100.0
+12-23	26.0	51.8	15.4	3.2	3.6	0.0	100.0
+24-35	20.2	59.9	18.1	1.8	0.0	0.0	100.0
+36-47	20.7	55.1	19.6	3.7	0.9	0.0	100.0
+48-59	30.7	36.2	31.4	1.7	0.0	0.0	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+sex of child							
+male	23.7	54.9	15.7	3.2	1.7	0.7	100.0
+female	19.5	56.2	19.4	3.2	1.8	0.0	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+woman currently breastfeeding any child							
+no	31.1	48.7	15.8	3.3	1.1	0.0	100.0
+yes	16.7	59.2	18.4	3.2	2.0	0.6	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+urban-rural status							
+urban	29.2	58.3	10.9	0.8	0.9	0.0	100.0
+rural	20.1	54.9	18.9	3.8	1.9	0.5	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+highest educational level							
+no education	22.7	52.2	20.7	2.3	0.0	2.1	100.0
+primary	22.2	58.6	14.5	2.5	2.3	0.0	100.0
+secondary	20.1	53.8	19.0	5.3	1.7	0.0	100.0
+higher	24.4	48.6	24.3	0.0	2.8	0.0	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+myanmar regions, 2015 [gis]							
+kachin	16.9	47.8	28.8	5.3	1.2	0.0	100.0
+kayah	36.3	43.2	18.0	2.5	0.0	0.0	100.0
+kayin	16.4	67.6	12.7	2.0	1.4	0.0	100.0
+chin	26.8	32.5	24.2	13.6	2.8	0.0	100.0
+sagaing	5.1	80.5	14.4	0.0	0.0	0.0	100.0
+taninthayi	4.2	71.3	24.5	0.0	0.0	0.0	100.0
+bago	19.4	52.3	28.3	0.0	0.0	0.0	100.0
+magway	24.4	62.4	13.3	0.0	0.0	0.0	100.0
+mandalay	20.6	69.8	9.6	0.0	0.0	0.0	100.0
+mon	11.3	77.2	5.8	0.0	5.8	0.0	100.0
+rakhine	23.2	40.3	30.4	2.1	4.1	0.0	100.0
+yangon	34.9	49.4	7.8	0.0	7.8	0.0	100.0
+shan	22.4	52.7	16.5	5.5	0.0	2.9	100.0
+ayeyarwaddy	27.5	51.0	13.5	6.0	2.1	0.0	100.0
+naypyitaw	25.2	54.4	15.3	0.0	5.1	0.0	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+household wealth index in quintiles							
+poorest	19.0	55.6	19.7	3.2	1.4	1.1	100.0
+poorer	28.4	47.6	19.1	3.2	1.7	0.0	100.0
+middle	21.9	57.9	13.7	5.4	1.1	0.0	100.0
+richer	14.4	65.6	13.7	3.2	3.1	0.0	100.0
+richest	22.7	59.3	16.0	0.0	2.0	0.0	100.0
+Total	21.7	55.5	17.5	3.2	1.7	0.4	100.0
+
+	Amount of food given for child with diarrhea							
+	More	Same as usual	Somewhat less	Much less	None	Never gave food	Don't know/missing	Total
+	%	%	%	%	%	%	%	%
+RECODE of age								
+<6	1.7	45.2	6.2	0.0	18.3	28.7	0.0	100.0
+6-11	4.7	56.3	10.1	8.7	4.6	8.6	7.0	100.0
+12-23	8.8	44.4	33.3	7.9	4.1	1.4	0.0	100.0
+24-35	3.6	49.2	36.9	5.4	3.1	1.8	0.0	100.0
+36-47	13.0	49.1	27.1	9.2	1.5	0.0	0.0	100.0
+48-59	3.8	32.5	50.1	9.7	3.9	0.0	0.0	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+sex of child								
+male	9.2	45.6	30.2	7.4	3.6	3.4	0.7	100.0
+female	4.5	47.8	30.0	7.4	5.2	4.0	1.1	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+woman currently breastfeeding any child								
+no	9.2	50.6	29.4	8.9	1.3	0.6	0.0	100.0
+yes	5.7	44.5	30.5	6.6	6.0	5.3	1.4	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+urban-rural status								
+urban	3.8	48.6	26.8	5.9	8.2	3.9	2.9	100.0
+rural	7.6	46.2	30.8	7.7	3.5	3.6	0.5	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+highest educational level								
+no education	6.2	54.2	27.0	5.1	3.1	2.3	2.1	100.0
+primary	6.8	42.8	31.4	9.0	5.1	3.7	1.1	100.0
+secondary	6.7	49.2	29.2	6.8	3.2	4.9	0.0	100.0
+higher	13.1	36.9	36.4	4.1	9.6	0.0	0.0	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+myanmar regions, 2015 [gis]								
+kachin	6.4	42.6	39.8	9.2	0.0	1.9	0.0	100.0
+kayah	0.0	38.3	48.7	0.0	2.8	10.3	0.0	100.0
+kayin	5.9	74.4	11.4	4.9	2.0	1.4	0.0	100.0
+chin	7.3	20.9	27.0	27.2	11.8	5.8	0.0	100.0
+sagaing	0.0	79.6	15.3	0.0	0.0	5.1	0.0	100.0
+taninthayi	8.4	54.9	20.8	4.2	11.7	0.0	0.0	100.0
+bago	11.4	26.3	33.4	3.2	20.9	4.8	0.0	100.0
+magway	4.9	38.9	46.4	4.8	0.0	4.9	0.0	100.0
+mandalay	7.1	42.9	31.6	6.7	9.5	2.2	0.0	100.0
+mon	5.5	71.8	11.5	0.0	5.4	5.8	0.0	100.0
+rakhine	7.7	30.4	36.3	9.9	2.1	13.6	0.0	100.0
+yangon	0.0	50.4	26.0	7.9	15.8	0.0	0.0	100.0
+shan	3.1	56.3	28.4	5.5	0.0	0.0	6.7	100.0
+ayeyarwaddy	12.7	40.9	33.0	9.3	2.1	2.1	0.0	100.0
+naypyitaw	5.1	49.7	19.4	15.5	0.0	10.2	0.0	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+household wealth index in quintiles								
+poorest	7.7	41.2	31.3	10.2	2.2	4.9	2.6	100.0
+poorer	7.2	49.4	30.3	4.4	6.7	2.1	0.0	100.0
+middle	5.3	45.1	33.9	8.4	5.4	2.0	0.0	100.0
+richer	10.2	53.3	19.3	5.6	4.4	7.2	0.0	100.0
+richest	2.4	51.9	33.6	6.2	4.3	1.6	0.0	100.0
+Total	6.9	46.6	30.1	7.4	4.4	3.7	0.9	100.0
+
+	Given oral rehydration salts for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	82.2	17.8	100.0
+6-11	44.7	55.3	100.0
+12-23	38.8	61.2	100.0
+24-35	31.2	68.8	100.0
+36-47	32.0	68.0	100.0
+48-59	25.8	74.2	100.0
+Total	38.1	61.9	100.0
+
+sex of child			
+male	31.9	68.1	100.0
+female	45.1	54.9	100.0
+Total	38.1	61.9	100.0
+
+urban-rural status			
+urban	32.9	67.1	100.0
+rural	39.3	60.7	100.0
+Total	38.1	61.9	100.0
+
+highest educational level			
+no education	45.7	54.3	100.0
+primary	39.1	60.9	100.0
+secondary	32.3	67.7	100.0
+higher	38.2	61.8	100.0
+Total	38.1	61.9	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	36.5	63.5	100.0
+kayah	23.5	76.5	100.0
+kayin	49.1	50.9	100.0
+chin	38.0	62.0	100.0
+sagaing	35.6	64.4	100.0
+taninthayi	29.4	70.6	100.0
+bago	25.2	74.8	100.0
+magway	45.7	54.3	100.0
+mandalay	40.9	59.1	100.0
+mon	34.5	65.5	100.0
+rakhine	38.1	61.9	100.0
+yangon	32.9	67.1	100.0
+shan	60.5	39.5	100.0
+ayeyarwaddy	27.0	73.0	100.0
+naypyitaw	30.8	69.2	100.0
+Total	38.1	61.9	100.0
+
+household wealth index in quintiles			
+poorest	37.5	62.5	100.0
+poorer	38.8	61.2	100.0
+middle	43.4	56.6	100.0
+richer	33.2	66.8	100.0
+richest	36.9	63.1	100.0
+Total	38.1	61.9	100.0
+
+	Given recommended homemade fluids for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	98.9	1.1	100.0
+6-11	96.0	4.0	100.0
+12-23	95.6	4.4	100.0
+24-35	95.7	4.3	100.0
+36-47	93.1	6.9	100.0
+48-59	94.9	5.1	100.0
+Total	95.4	4.6	100.0
+
+sex of child			
+male	94.5	5.5	100.0
+female	96.4	3.6	100.0
+Total	95.4	4.6	100.0
+
+urban-rural status			
+urban	92.5	7.5	100.0
+rural	96.0	4.0	100.0
+Total	95.4	4.6	100.0
+
+highest educational level			
+no education	99.3	0.7	100.0
+primary	92.9	7.1	100.0
+secondary	96.8	3.2	100.0
+higher	95.9	4.1	100.0
+Total	95.4	4.6	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	98.7	1.3	100.0
+kayah	97.4	2.6	100.0
+kayin	96.5	3.5	100.0
+chin	91.6	8.4	100.0
+sagaing	100.0	0.0	100.0
+taninthayi	87.4	12.6	100.0
+bago	90.0	10.0	100.0
+magway	95.8	4.2	100.0
+mandalay	97.8	2.2	100.0
+mon	78.2	21.8	100.0
+rakhine	97.9	2.1	100.0
+yangon	100.0	0.0	100.0
+shan	96.2	3.8	100.0
+ayeyarwaddy	94.7	5.3	100.0
+naypyitaw	84.6	15.4	100.0
+Total	95.4	4.6	100.0
+
+household wealth index in quintiles			
+poorest	93.7	6.3	100.0
+poorer	95.1	4.9	100.0
+middle	99.0	1.0	100.0
+richer	97.6	2.4	100.0
+richest	93.5	6.5	100.0
+Total	95.4	4.6	100.0
+
+	Given either ORS or RHF for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	81.7	18.3	100.0
+6-11	40.7	59.3	100.0
+12-23	38.6	61.4	100.0
+24-35	30.3	69.7	100.0
+36-47	29.8	70.2	100.0
+48-59	25.8	74.2	100.0
+Total	37.0	63.0	100.0
+
+sex of child			
+male	31.4	68.6	100.0
+female	43.2	56.8	100.0
+Total	37.0	63.0	100.0
+
+urban-rural status			
+urban	28.3	71.7	100.0
+rural	38.9	61.1	100.0
+Total	37.0	63.0	100.0
+
+highest educational level			
+no education	45.7	54.3	100.0
+primary	36.7	63.3	100.0
+secondary	32.1	67.9	100.0
+higher	38.2	61.8	100.0
+Total	37.0	63.0	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	36.5	63.5	100.0
+kayah	23.5	76.5	100.0
+kayin	49.1	50.9	100.0
+chin	34.3	65.7	100.0
+sagaing	35.6	64.4	100.0
+taninthayi	29.4	70.6	100.0
+bago	25.2	74.8	100.0
+magway	45.7	54.3	100.0
+mandalay	40.9	59.1	100.0
+mon	34.5	65.5	100.0
+rakhine	36.0	64.0	100.0
+yangon	32.9	67.1	100.0
+shan	56.6	43.4	100.0
+ayeyarwaddy	25.6	74.4	100.0
+naypyitaw	30.8	69.2	100.0
+Total	37.0	63.0	100.0
+
+household wealth index in quintiles			
+poorest	34.5	65.5	100.0
+poorer	38.4	61.6	100.0
+middle	43.2	56.8	100.0
+richer	33.2	66.8	100.0
+richest	36.9	63.1	100.0
+Total	37.0	63.0	100.0
+
+	Given zinc for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	99.4	0.6	100.0
+6-11	89.1	10.9	100.0
+12-23	90.0	10.0	100.0
+24-35	91.6	8.4	100.0
+36-47	89.9	10.1	100.0
+48-59	98.3	1.7	100.0
+Total	91.6	8.4	100.0
+
+sex of child			
+male	93.7	6.3	100.0
+female	89.2	10.8	100.0
+Total	91.6	8.4	100.0
+
+urban-rural status			
+urban	85.1	14.9	100.0
+rural	93.0	7.0	100.0
+Total	91.6	8.4	100.0
+
+highest educational level			
+no education	95.0	5.0	100.0
+primary	92.7	7.3	100.0
+secondary	92.4	7.6	100.0
+higher	59.9	40.1	100.0
+Total	91.6	8.4	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	85.9	14.1	100.0
+kayah	59.2	40.8	100.0
+kayin	98.2	1.8	100.0
+chin	94.3	5.7	100.0
+sagaing	100.0	0.0	100.0
+taninthayi	100.0	0.0	100.0
+bago	95.7	4.3	100.0
+magway	100.0	0.0	100.0
+mandalay	79.5	20.5	100.0
+mon	94.2	5.8	100.0
+rakhine	88.6	11.4	100.0
+yangon	76.2	23.8	100.0
+shan	94.5	5.5	100.0
+ayeyarwaddy	94.5	5.5	100.0
+naypyitaw	74.2	25.8	100.0
+Total	91.6	8.4	100.0
+
+household wealth index in quintiles			
+poorest	93.7	6.3	100.0
+poorer	93.2	6.8	100.0
+middle	99.3	0.7	100.0
+richer	79.9	20.1	100.0
+richest	82.9	17.1	100.0
+Total	91.6	8.4	100.0
+
+	Given zinc and ORS for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	100.0	0.0	100.0
+6-11	90.5	9.5	100.0
+12-23	91.8	8.2	100.0
+24-35	94.1	5.9	100.0
+36-47	92.1	7.9	100.0
+48-59	99.5	0.5	100.0
+Total	93.4	6.6	100.0
+
+sex of child			
+male	95.1	4.9	100.0
+female	91.6	8.4	100.0
+Total	93.4	6.6	100.0
+
+urban-rural status			
+urban	87.9	12.1	100.0
+rural	94.6	5.4	100.0
+Total	93.4	6.6	100.0
+
+highest educational level			
+no education	96.9	3.1	100.0
+primary	93.6	6.4	100.0
+secondary	93.2	6.8	100.0
+higher	79.0	21.0	100.0
+Total	93.4	6.6	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	87.4	12.6	100.0
+kayah	59.2	40.8	100.0
+kayin	98.2	1.8	100.0
+chin	96.3	3.7	100.0
+sagaing	100.0	0.0	100.0
+taninthayi	100.0	0.0	100.0
+bago	95.7	4.3	100.0
+magway	100.0	0.0	100.0
+mandalay	88.5	11.5	100.0
+mon	94.2	5.8	100.0
+rakhine	90.4	9.6	100.0
+yangon	76.2	23.8	100.0
+shan	94.5	5.5	100.0
+ayeyarwaddy	96.5	3.5	100.0
+naypyitaw	89.7	10.3	100.0
+Total	93.4	6.6	100.0
+
+household wealth index in quintiles			
+poorest	95.0	5.0	100.0
+poorer	94.7	5.3	100.0
+middle	99.3	0.7	100.0
+richer	84.5	15.5	100.0
+richest	86.9	13.1	100.0
+Total	93.4	6.6	100.0
+
+	Given ORS or increased fluids for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	73.2	26.8	100.0
+6-11	43.1	56.9	100.0
+12-23	32.5	67.5	100.0
+24-35	28.5	71.5	100.0
+36-47	28.1	71.9	100.0
+48-59	20.5	79.5	100.0
+Total	33.6	66.4	100.0
+
+sex of child			
+male	26.8	73.2	100.0
+female	41.0	59.0	100.0
+Total	33.6	66.4	100.0
+
+urban-rural status			
+urban	27.6	72.4	100.0
+rural	34.9	65.1	100.0
+Total	33.6	66.4	100.0
+
+highest educational level			
+no education	39.8	60.2	100.0
+primary	35.8	64.2	100.0
+secondary	27.5	72.5	100.0
+higher	28.1	71.9	100.0
+Total	33.6	66.4	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	32.7	67.3	100.0
+kayah	17.8	82.2	100.0
+kayin	41.4	58.6	100.0
+chin	31.3	68.7	100.0
+sagaing	35.6	64.4	100.0
+taninthayi	29.4	70.6	100.0
+bago	25.2	74.8	100.0
+magway	36.0	64.0	100.0
+mandalay	36.7	63.3	100.0
+mon	34.5	65.5	100.0
+rakhine	34.2	65.8	100.0
+yangon	25.0	75.0	100.0
+shan	50.8	49.2	100.0
+ayeyarwaddy	25.0	75.0	100.0
+naypyitaw	20.4	79.6	100.0
+Total	33.6	66.4	100.0
+
+household wealth index in quintiles			
+poorest	34.1	65.9	100.0
+poorer	34.4	65.6	100.0
+middle	38.5	61.5	100.0
+richer	29.3	70.7	100.0
+richest	27.0	73.0	100.0
+Total	33.6	66.4	100.0
+
+	Given oral rehydration treatment or increased liquids for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	72.6	27.4	100.0
+6-11	39.2	60.8	100.0
+12-23	32.5	67.5	100.0
+24-35	27.5	72.5	100.0
+36-47	26.0	74.0	100.0
+48-59	20.5	79.5	100.0
+Total	32.4	67.6	100.0
+
+sex of child			
+male	26.4	73.6	100.0
+female	39.2	60.8	100.0
+Total	32.4	67.6	100.0
+
+urban-rural status			
+urban	23.0	77.0	100.0
+rural	34.5	65.5	100.0
+Total	32.4	67.6	100.0
+
+highest educational level			
+no education	39.8	60.2	100.0
+primary	33.5	66.5	100.0
+secondary	27.3	72.7	100.0
+higher	28.1	71.9	100.0
+Total	32.4	67.6	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	32.7	67.3	100.0
+kayah	17.8	82.2	100.0
+kayin	41.4	58.6	100.0
+chin	28.5	71.5	100.0
+sagaing	35.6	64.4	100.0
+taninthayi	29.4	70.6	100.0
+bago	25.2	74.8	100.0
+magway	36.0	64.0	100.0
+mandalay	36.7	63.3	100.0
+mon	34.5	65.5	100.0
+rakhine	32.1	67.9	100.0
+yangon	25.0	75.0	100.0
+shan	47.0	53.0	100.0
+ayeyarwaddy	23.6	76.4	100.0
+naypyitaw	20.4	79.6	100.0
+Total	32.4	67.6	100.0
+
+household wealth index in quintiles			
+poorest	31.2	68.8	100.0
+poorer	34.1	65.9	100.0
+middle	38.5	61.5	100.0
+richer	29.3	70.7	100.0
+richest	27.0	73.0	100.0
+Total	32.4	67.6	100.0
+
+	Given ORT and continued feeding for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	87.5	12.5	100.0
+6-11	56.3	43.7	100.0
+12-23	43.2	56.8	100.0
+24-35	37.6	62.4	100.0
+36-47	36.3	63.7	100.0
+48-59	32.4	67.6	100.0
+Total	44.2	55.8	100.0
+
+sex of child			
+male	38.2	61.8	100.0
+female	50.7	49.3	100.0
+Total	44.2	55.8	100.0
+
+urban-rural status			
+urban	37.5	62.5	100.0
+rural	45.6	54.4	100.0
+Total	44.2	55.8	100.0
+
+highest educational level			
+no education	49.0	51.0	100.0
+primary	47.1	52.9	100.0
+secondary	38.7	61.3	100.0
+higher	32.2	67.8	100.0
+Total	44.2	55.8	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	42.6	57.4	100.0
+kayah	25.7	74.3	100.0
+kayin	48.3	51.7	100.0
+chin	61.4	38.6	100.0
+sagaing	35.6	64.4	100.0
+taninthayi	41.1	58.9	100.0
+bago	46.1	53.9	100.0
+magway	40.8	59.2	100.0
+mandalay	45.6	54.4	100.0
+mon	34.5	65.5	100.0
+rakhine	49.6	50.4	100.0
+yangon	48.7	51.3	100.0
+shan	56.3	43.7	100.0
+ayeyarwaddy	34.9	65.1	100.0
+naypyitaw	41.1	58.9	100.0
+Total	44.2	55.8	100.0
+
+household wealth index in quintiles			
+poorest	45.6	54.4	100.0
+poorer	44.5	55.5	100.0
+middle	51.4	48.6	100.0
+richer	39.2	60.8	100.0
+richest	33.6	66.4	100.0
+Total	44.2	55.8	100.0
+
+	Given antibiotic drugs for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	100.0	0.0	100.0
+6-11	96.0	4.0	100.0
+12-23	98.8	1.2	100.0
+24-35	100.0	0.0	100.0
+36-47	98.2	1.8	100.0
+48-59	100.0	0.0	100.0
+Total	98.8	1.2	100.0
+
+sex of child			
+male	99.0	1.0	100.0
+female	98.5	1.5	100.0
+Total	98.8	1.2	100.0
+
+urban-rural status			
+urban	100.0	0.0	100.0
+rural	98.5	1.5	100.0
+Total	98.8	1.2	100.0
+
+highest educational level			
+no education	97.3	2.7	100.0
+primary	99.6	0.4	100.0
+secondary	98.3	1.7	100.0
+higher	100.0	0.0	100.0
+Total	98.8	1.2	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	100.0	0.0	100.0
+kayah	97.5	2.5	100.0
+kayin	98.1	1.9	100.0
+chin	99.1	0.9	100.0
+sagaing	100.0	0.0	100.0
+taninthayi	95.9	4.1	100.0
+bago	100.0	0.0	100.0
+magway	100.0	0.0	100.0
+mandalay	100.0	0.0	100.0
+mon	100.0	0.0	100.0
+rakhine	97.9	2.1	100.0
+yangon	92.2	7.8	100.0
+shan	97.1	2.9	100.0
+ayeyarwaddy	100.0	0.0	100.0
+naypyitaw	100.0	0.0	100.0
+Total	98.8	1.2	100.0
+
+household wealth index in quintiles			
+poorest	99.1	0.9	100.0
+poorer	100.0	0.0	100.0
+middle	99.1	0.9	100.0
+richer	97.1	2.9	100.0
+richest	96.2	3.8	100.0
+Total	98.8	1.2	100.0
+
+	Given antimotility drugs for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	81.2	18.8	100.0
+6-11	87.9	12.1	100.0
+12-23	84.7	15.3	100.0
+24-35	77.7	22.3	100.0
+36-47	79.3	20.7	100.0
+48-59	93.5	6.5	100.0
+Total	83.4	16.6	100.0
+
+sex of child			
+male	84.8	15.2	100.0
+female	81.8	18.2	100.0
+Total	83.4	16.6	100.0
+
+urban-rural status			
+urban	90.6	9.4	100.0
+rural	81.8	18.2	100.0
+Total	83.4	16.6	100.0
+
+highest educational level			
+no education	92.5	7.5	100.0
+primary	82.6	17.4	100.0
+secondary	79.5	20.5	100.0
+higher	82.6	17.4	100.0
+Total	83.4	16.6	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	77.2	22.8	100.0
+kayah	97.4	2.6	100.0
+kayin	92.2	7.8	100.0
+chin	96.3	3.7	100.0
+sagaing	65.3	34.7	100.0
+taninthayi	87.4	12.6	100.0
+bago	78.4	21.6	100.0
+magway	85.4	14.6	100.0
+mandalay	93.1	6.9	100.0
+mon	94.3	5.7	100.0
+rakhine	90.7	9.3	100.0
+yangon	84.2	15.8	100.0
+shan	91.3	8.7	100.0
+ayeyarwaddy	74.3	25.7	100.0
+naypyitaw	74.9	25.1	100.0
+Total	83.4	16.6	100.0
+
+household wealth index in quintiles			
+poorest	82.6	17.4	100.0
+poorer	83.3	16.7	100.0
+middle	82.5	17.5	100.0
+richer	82.0	18.0	100.0
+richest	89.6	10.4	100.0
+Total	83.4	16.6	100.0
+
+	Given Intravenous solution for diarrhea	
+	0	Total
+	%	%
+RECODE of age		
+<6	100.0	100.0
+6-11	100.0	100.0
+12-23	100.0	100.0
+24-35	100.0	100.0
+36-47	100.0	100.0
+48-59	100.0	100.0
+Total	100.0	100.0
+
+sex of child		
+male	100.0	100.0
+female	100.0	100.0
+Total	100.0	100.0
+
+urban-rural status		
+urban	100.0	100.0
+rural	100.0	100.0
+Total	100.0	100.0
+
+highest educational level		
+no education	100.0	100.0
+primary	100.0	100.0
+secondary	100.0	100.0
+higher	100.0	100.0
+Total	100.0	100.0
+
+myanmar regions, 2015 [gis]		
+kachin	100.0	100.0
+kayah	100.0	100.0
+kayin	100.0	100.0
+chin	100.0	100.0
+sagaing	100.0	100.0
+taninthayi	100.0	100.0
+bago	100.0	100.0
+magway	100.0	100.0
+mandalay	100.0	100.0
+mon	100.0	100.0
+rakhine	100.0	100.0
+yangon	100.0	100.0
+shan	100.0	100.0
+ayeyarwaddy	100.0	100.0
+naypyitaw	100.0	100.0
+Total	100.0	100.0
+
+household wealth index in quintiles		
+poorest	100.0	100.0
+poorer	100.0	100.0
+middle	100.0	100.0
+richer	100.0	100.0
+richest	100.0	100.0
+Total	100.0	100.0
+
+	Given home remedy or other treatment for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	51.6	48.4	100.0
+6-11	71.9	28.1	100.0
+12-23	70.3	29.7	100.0
+24-35	70.8	29.2	100.0
+36-47	68.8	31.2	100.0
+48-59	50.8	49.2	100.0
+Total	67.4	32.6	100.0
+
+sex of child			
+male	70.1	29.9	100.0
+female	64.3	35.7	100.0
+Total	67.4	32.6	100.0
+
+urban-rural status			
+urban	62.6	37.4	100.0
+rural	68.4	31.6	100.0
+Total	67.4	32.6	100.0
+
+highest educational level			
+no education	76.5	23.5	100.0
+primary	63.1	36.9	100.0
+secondary	67.4	32.6	100.0
+higher	74.3	25.7	100.0
+Total	67.4	32.6	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	56.3	43.7	100.0
+kayah	91.8	8.2	100.0
+kayin	54.9	45.1	100.0
+chin	87.9	12.1	100.0
+sagaing	70.3	29.7	100.0
+taninthayi	49.6	50.4	100.0
+bago	32.1	67.9	100.0
+magway	88.5	11.5	100.0
+mandalay	68.7	31.3	100.0
+mon	50.1	49.9	100.0
+rakhine	62.5	37.5	100.0
+yangon	74.9	25.1	100.0
+shan	75.4	24.6	100.0
+ayeyarwaddy	70.5	29.5	100.0
+naypyitaw	84.6	15.4	100.0
+Total	67.4	32.6	100.0
+
+household wealth index in quintiles			
+poorest	68.4	31.6	100.0
+poorer	64.8	35.2	100.0
+middle	68.1	31.9	100.0
+richer	67.0	33.0	100.0
+richest	69.7	30.3	100.0
+Total	67.4	32.6	100.0
+
+	No treatment for diarrhea		
+	0	1	Total
+	%	%	%
+RECODE of age			
+<6	79.3	20.7	100.0
+6-11	81.1	18.9	100.0
+12-23	85.6	14.4	100.0
+24-35	86.7	13.3	100.0
+36-47	88.0	12.0	100.0
+48-59	91.2	8.8	100.0
+Total	85.8	14.2	100.0
+
+sex of child			
+male	87.7	12.3	100.0
+female	83.8	16.2	100.0
+Total	85.8	14.2	100.0
+
+urban-rural status			
+urban	95.0	5.0	100.0
+rural	83.8	16.2	100.0
+Total	85.8	14.2	100.0
+
+highest educational level			
+no education	73.7	26.3	100.0
+primary	88.0	12.0	100.0
+secondary	88.7	11.3	100.0
+higher	92.6	7.4	100.0
+Total	85.8	14.2	100.0
+
+myanmar regions, 2015 [gis]			
+kachin	82.8	17.2	100.0
+kayah	89.9	10.1	100.0
+kayin	88.8	11.2	100.0
+chin	84.0	16.0	100.0
+sagaing	84.8	15.2	100.0
+taninthayi	100.0	0.0	100.0
+bago	100.0	0.0	100.0
+magway	80.4	19.6	100.0
+mandalay	81.8	18.2	100.0
+mon	88.5	11.5	100.0
+rakhine	89.7	10.3	100.0
+yangon	100.0	0.0	100.0
+shan	68.0	32.0	100.0
+ayeyarwaddy	89.7	10.3	100.0
+naypyitaw	89.8	10.2	100.0
+Total	85.8	14.2	100.0
+
+household wealth index in quintiles			
+poorest	85.8	14.2	100.0
+poorer	84.6	15.4	100.0
+middle	76.6	23.4	100.0
+richer	96.4	3.6	100.0
+richest	89.8	10.2	100.0
+Total	85.8	14.2	100.0
+
+	%
+Diarrhea treatment sought from government hospital among children with diarrhea	
+0	86.9
+1	13.1
+Total	100.0
+
+Diarrhea treatment sought from government health center among children with diar	
+0	91.2
+1	8.8
+Total	100.0
+
+Diarrhea treatment sought from private hospital/clinic among children with diarr	
+0	85.2
+1	14.8
+Total	100.0
+
+Diarrhea treatment sought from private doctor among children with diarrhea	
+0	98.5
+1	1.5
+Total	100.0
+
+Diarrhea treatment sought from a pharmacy among children with diarrhea	
+0	97.0
+1	3.0
+Total	100.0
+
+	%
+Diarrhea treatment sought from government hospital among children with diarrhea 	
+0	85.5
+1	14.5
+Total	100.0
+
+Diarrhea treatment sought from government health center among children with diar	
+0	90.3
+1	9.7
+Total	100.0
+
+Diarrhea treatment sought from private hospital/clinic among children with diarr	
+0	83.6
+1	16.4
+Total	100.0
+
+Diarrhea treatment sought from private doctor among children with diarrhea that 	
+0	98.3
+1	1.7
+Total	100.0
+
+Diarrhea treatment sought from a pharmacy among children with diarrhea that soug	
+0	99.9
+1	0.1
+Total	100.0
+
+	%
+Diarrhea treatment sought from government hospital among children with diarrhea 	
+0	82.8
+1	17.2
+Total	100.0
+
+Diarrhea treatment sought from government health center among children with diar	
+0	88.4
+1	11.6
+Total	100.0
+
+Diarrhea treatment sought from private hospital/clinic among children with diarr	
+0	80.6
+1	19.4
+Total	100.0
+
+Diarrhea treatment sought from private doctor among children with diarrhea that 	
+0	82.8
+1	17.2
+Total	100.0
+
+Diarrhea treatment sought from a pharmacy among children with diarrhea that rece	
+0	96.1
+1	3.9
+Total	100.0
+
