@@ -15,7 +15,10 @@ Executing the main do file will generate tables using women's and men's variable
 - Tables_tobac_wm
 - Tables_tobac_mn
 
-## Variables Required
+#### How to Run
+First go to www.idhs.com and create data files with the variables listed below. Create a separate data file for each unit of analysis.
+
+Then, inside the main do file, in the areas commented, add in the path to the women's or men's data from IPUMS. Replace "GEO-REGION" with your sample's region variable name associated with the data sets. Tables will be created in current working directory.## Variables Required
 
 ##### IPUMS_RC_CHAR.do
 
@@ -114,5 +117,3 @@ Executing the main do file will generate tables using women's and men's variable
 | region variable geo_CCYEAR | Both: "Single sample geography variables"                                      |
 
 
-#### How to Run
-Inside the main do file, in the areas commented, add in the path to the women's or men's data from IPUMS. Replace "GEO-REGION" with your sample's region variable name associated with the data sets. Tables will be created in current working directory.
