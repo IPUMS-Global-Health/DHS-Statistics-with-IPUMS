@@ -12,7 +12,15 @@ Executing the main do file will generate tables using household and women's vari
 - Tables_livarg_orph
 - Table_gini
 
-## Variables Required
+# Create IPUMS DHS data files that include the variables listed below
+
+#### How to create the tables
+First, create IPUMS DHS data files that include the variables listed below. 
+
+Then, inside the main do file, in the areas commented, add in the paths to the household, women's, or birth data from IPUMS. Replace "GEO-REGION" with your sample's region variable name associated with the data sets. Tables will be created in current working directory.
+
+
+## These are the IPUMS DHS variables you need for each table
 
 ##### IPUMS_PH_GINI.do
 
@@ -151,5 +159,3 @@ Executing the main do file will generate tables using household and women's vari
 | urbanhh                    | "Urban-rural status"                                 |
 | region variable geo_CCYEAR | "Single sample geography variables"                  |  
 
-#### How to Run
-Inside the main do file, in the areas commented, add in the path to the household, women's, or birth data from IPUMS. Replace "GEO-REGION" with your sample's region variable name associated with the data sets. Tables will be created in current working directory.
