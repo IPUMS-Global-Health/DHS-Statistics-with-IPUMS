@@ -6,7 +6,7 @@ Data inputs: 		IPUMS DHS Women or Men Variables
 Data outputs:		coded variables
 Author:				Shireen Assaf, modified by Faduma Shaba and Kassandra Fate for this project		
 Date last modified:	August 2021
-Note:				The indicators below can be computed for women or for men. Please check the note on health insurance. This can be country specific and also reported for specific populations.
+Note:				The indicators below can be computed for women or for men. 
 *****************************************************************************************************/
 
 /*----------------------------------------------------------------------------
