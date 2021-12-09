@@ -5,7 +5,8 @@ Data inputs: 		      		IPUMS DHS Household Variables
 Data outputs:		      		coded variables
 Author:				        Trevor Croft and Shireen Assaf, modified by Faduma Shaba and Kassandra Fate for this project
 Date last modified:   			July 2021
-Note:					To produce the net attendance ratios you need to provide country specific information on the year and month of the school calendar and the age range for school attendance. See lines 65-75
+Note:					To produce the net attendance ratios you need to provide country specific information on the year 
+						and month of the school calendar and the age range for school attendance. See lines 94-105.
 *****************************************************************************************************/
 
 /* DIRECTIONS
