@@ -7,7 +7,7 @@ Author:				      Tom Pullum and Shireen Assaf, modified by Faduma Shaba, Maggie 
 Date last modified: July 1, 2020 by Kassandra Fate
 Note:				This program will collapse the data and export the results to a table called Table_gini.xls.
 					The programs below contain many notes to describe how the Gini coefficient was computed.
-**To add other country specific covariates such as GEO-REGION, add this to lines 157 and 213. Replace "GEO-REGION" with your sample's region variable name.
+**On lines 160 and 215, replace "GEO-REGION" with your sample's region variable name.
 	In IPUMS DHS, each survey's region variable has a unique name to facilitate
 	pooling data. These variables can be found in the IPUMS drop down menu under:
 		GEOGRAPHY -> SINGLE SAMPLE GEOGRAPHY **
@@ -157,8 +157,8 @@ scalar sGini_1=Gini
 scalar index=1
 * Categories of covariates
 * You will want to link to category labels
-local lvars "GEO-REGION urbanhh"
-*local lvars "urbanhh GEO-REGION"
+local lvars "GEO-REGION urbanhh country"
+
 use PR_temp_gini.dta, clear
 foreach lvar of local lvars {
 scalar svar="`lvar'"
@@ -211,8 +211,8 @@ set more off
 use "$datapath//$prdata.dta", clear
 scalar survey=substr("$prdata",1,2)+substr("$prdata",5,2)
 scalar list survey
-*label list GEO-REGION
-keep hhweight dejureno GEO-REGION urbanhh hhrelate wealthqhh wealthshh
+
+keep sample hhweight dejureno GEO-REGION urbanhh hhrelate wealthqhh wealthshh
 
 quietly main
 
