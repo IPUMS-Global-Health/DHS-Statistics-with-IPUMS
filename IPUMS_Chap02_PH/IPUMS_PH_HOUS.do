@@ -4,7 +4,9 @@ Purpose: 			  Code to compute household characteristics, possessions, and smokin
 Data inputs: 		IPUMS DHS Housing Variables
 Data outputs:		coded variables
 Author:				  Shireen Assaf, modified by Faduma Shaba and Kassandra Fate for this project
-Date last modified: May 2021
+Note:				These indicators can also be computed using Household Members as the unit of analysis 
+          but you would need to select for dejure household members using
+					using hhresident==1. Please see the Guide to DHS Statistics. Date last modified: May 2021
 *****************************************************************************************************/
 
 /*----------------------------------------------------------------------------
