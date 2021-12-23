@@ -4,7 +4,7 @@ Purpose: 			Creates variable for binary improved sanitation according to JSTOR s
 Data inputs: 		IPUMS DHS Household File
 Data outputs:		none
 Author of do file:	03/15/2018	Courtney Allen, modified by Kassandra Fate for this project
-Date last modified: 06/17/2020	Kassandra Fate
+
 *****************************************************************************************************/
 
 /*------------------------------------------------------------------------------
