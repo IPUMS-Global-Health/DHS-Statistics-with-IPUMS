@@ -4,7 +4,7 @@ Purpose: 			creates variable for binary improved water source according to JSTOR
 Data inputs: 		IPUMS DHS Household
 Data outputs:		none
 Author of do file:	04/08/2018	Courtney Allen, modified by Kassandra Fate for this project
-Date last modified: 06/17/2021	Kassandra Fate
+
 *****************************************************************************************************/
 
 /*------------------------------------------------------------------------------
