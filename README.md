@@ -6,7 +6,7 @@ The purpose of this repository is to share the code necessary to replicate DHS F
 
 Each chapter in the repository creates statistics for the corresponding chapter in a DHS Final Report. For example, Chapter 2 of DHS Final Reports shows "Household Characteristics;" Chapter 2 of this repository allows users to create those statistics for themselves. 
 
-This repository is modeled after [this DHS program project](https://github.com/DHSProgram/DHS-Indicators-Stata), but is designed to work with IPUMS DHS data. 
+Nearly all of the Stata code in this repository is a modification of Stata .do files from [this DHS program project](https://github.com/DHSProgram/DHS-Indicators-Stata). The modifications are designed to make the code work with IPUMS DHS data. 
 
 ### Steps To Run
 Here are the general steps necessary to run the code in this repository correctly. Note that each chapter also has its own README file with more specific information. 
