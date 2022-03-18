@@ -15,7 +15,7 @@ Once you have completed the steps below, executing the main do file will generat
 # Create IPUMS DHS data files that include the variables listed below
 
 #### How to create the tables
-First, create IPUMS DHS data files that include the variables listed below. 
+First, create IPUMS DHS data files that include the variables listed below. Create a separate data file for each unit of analysis--for this chapter, Household Members and Births. 
 
 Then, inside the main do file, in the areas commented, add in the paths to the household, women's, or birth data from IPUMS. Replace "GEO-REGION" with your sample's region variable name associated with the data sets. Tables will be created in current working directory.
 
