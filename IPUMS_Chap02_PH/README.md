@@ -1,6 +1,6 @@
 # Population and Housing Variables
 
-Executing the main do file will generate tables using household and women's variables. 
+Once you have completed the steps below, executing the main do file will generate tables using household and women's variables. 
 
 - Tables_hh_wash
 - Tables_hh_charac
