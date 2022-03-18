@@ -1,6 +1,6 @@
 # Respondent's Characteristics Variables
 
-Executing the main do file will generate tables using women's and men's variables. 
+Once you have completed the steps below, executing the main do file will generate tables using women's and men's variables. 
 
 - Tables_background_wm
 - Tables_background_mn
