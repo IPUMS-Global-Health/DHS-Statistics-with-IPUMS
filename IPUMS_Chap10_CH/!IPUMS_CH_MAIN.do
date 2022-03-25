@@ -4,12 +4,14 @@ Purpose: 				Main file for the Child Health Chapter.
 						The main file will call other do files that will produce the CH indicators and produce tables.
 Data outputs:			coded variables and table output on screen and in excel tables.  
 Author: 				Shireen Assaf	modified by Amber Nguyen for this project
-Date last modified:		May 14 2019 by Shireen Assaf
+Date last modified:		March 25, 2022 by Anna Gannon
 
 *******************************************************************************************************************************/
 
 /* Variables used: 
+
 ***children variables: ***
+
 region variable geo_CCYEAR		"Single sample geography variables"
 age				"Age"
 perweight		"Sample weight for persons"
@@ -132,21 +134,18 @@ Variables created:
 */
 set more off
 
-* select your survey
+****** select your survey ******
 
-* KR Files
-global krdata "PATH TO CHILDREN DATA FILE"
-* MMKR71FL TJKR70FL GHKR72FL UGKR7AFL
+global childrendata /* INSERT PATH TO CHILDREN'S DATA SET HERE */ 
 
-* IR Files
-global irdata "PATH TO WOMEN DATA FILE"
-* MMIR71FL TJIR70FL GHIR72FL UGIR7AFL
-****************************
+global womendata /* INSERT PATH TO WOMEN'S DATA SET HERE */
+
+****** Children's file variables ******
 
 * KR file variables
 
 * open dataset
-use "$krdata", clear
+use "$childrendata", clear
 
 gen file="$krdata"
 clonevar regionkr = /* INSERT REGION VARIABLE HERE */
@@ -202,12 +201,12 @@ do IPUMS_CH_STOOL.do
 *******************************************************************************************************************************
 *******************************************************************************************************************************
 
-* IR file variables
+****** Women's file variables ******
 
 * open dataset
-use "$irdata", clear
+use "$womendata", clear
 
-gen file="$irdata"
+gen file="$womendata"
 clonevar regionir = /* INSERT REGION VARIABLE HERE */
 
 do IPUMS_CH_KNOW_ORS.do
