@@ -4,7 +4,7 @@ Purpose: 				Main file for the Child Health Chapter.
 						The main file will call other do files that will produce the CH indicators and produce tables.
 Data outputs:			coded variables and table output on screen and in excel tables.  
 Author: 				Shireen Assaf	modified by Amber Nguyen for this project
-Date last modified:		March 25, 2022 by Anna Gannon
+Date last modified:		March 31 2022 by Anna Gannon
 
 *******************************************************************************************************************************/
 
@@ -118,6 +118,7 @@ diagivother		"Child given other treatment for diarrhea"
 diagivnone		"Child given nothing as treatment for diarrhea"
 
 ***Women variables: ***
+
 region variable geo_CCYEAR		"Single sample geography variables"
 perweight		"Sample weight for persons"
 age				"Age"
@@ -140,14 +141,14 @@ global childrendata /* INSERT PATH TO CHILDREN'S DATA SET HERE */
 
 global womendata /* INSERT PATH TO WOMEN'S DATA SET HERE */
 
-****** Children's file variables ******
+****************************
 
-* KR file variables
+****** CHILDREN'S FILE VARIABLE ******
 
 * open dataset
 use "$childrendata", clear
 
-gen file="$krdata"
+gen file="$childrendata"
 clonevar regionkr = /* INSERT REGION VARIABLE HERE */
 
 *** Child's age ***
@@ -201,7 +202,7 @@ do IPUMS_CH_STOOL.do
 *******************************************************************************************************************************
 *******************************************************************************************************************************
 
-****** Women's file variables ******
+****** WOMEN'S FILE VARIABLE ******
 
 * open dataset
 use "$womendata", clear
