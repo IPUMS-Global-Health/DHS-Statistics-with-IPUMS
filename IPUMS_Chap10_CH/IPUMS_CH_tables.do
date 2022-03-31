@@ -2,7 +2,7 @@
 Program: 			CH_tables.do
 Purpose: 			produce tables for indicators
 Author:				Shireen Assaf
-Date last modified: May 14 2019 by Shireen Assaf 
+Date last modified: March 31 2022 by Anna Gannon 
 
 *Note this do file will produce the following tables in excel:
 	1. 	Tables_Size:		Contains the tables for child's size indicators
@@ -52,8 +52,8 @@ wealthq			"Household wealth index in quintiles"
 * comment out the tables or indicator section you do not want.
 ****************************************************
 
-* indicators from KR file
-if file=="$krdata" {
+* indicators from CHILDREN'S file
+if file=="$childrendata" {
 gen wt=perweight
 
 * Non-standard background variable to add to tables
@@ -811,8 +811,8 @@ tabout ch_diar_govh_ors ch_diar_govcent_ors ch_diar_pclinc_ors ch_diar_pdoc_ors 
 
 ****************************************************************************
 
-*indicators from IR file
-if file=="$irdata" {
+*indicators from WOMEN'S file
+if file=="$womendata" {
 
 gen wt=perweight
 
