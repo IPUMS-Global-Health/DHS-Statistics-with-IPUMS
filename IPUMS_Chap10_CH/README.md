@@ -120,7 +120,7 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 
 
 ### IPUMS_CH_VAC.do
-####Note: Pentavalent vaccine variable names could be either vacdptpen1, vacdptpen2, vacdptpen3 OR vacdpt1, vacdpt2, & vacdpt3 depending on the survey. VACDPTPEN variables are likely to be found in surveys that were administered in late 2012 or later. Change code accordingly.
+#### Note: Pentavalent vaccine variable names could be either vacdptpen1, vacdptpen2, vacdptpen3 OR vacdpt1, vacdpt2, & vacdpt3 depending on the survey. VACDPTPEN variables are likely to be found in surveys that were administered in late 2012 or later. Change code accordingly.
 | Variable                   | Description                                                            |
 |----------------------------|------------------------------------------------------------------------|
 | CHILD AS UNIT OF ANALYSIS  | All variables from children data                                       |
