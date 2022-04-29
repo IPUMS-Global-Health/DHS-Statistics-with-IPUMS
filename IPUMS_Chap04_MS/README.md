@@ -9,8 +9,6 @@ Executing the main do file will generate tables using marriage and sex variables
 
 ## Variables Required
 
-##### IPUMS_MS_MAR.do
-
 | Variable                   | Description                                   |
 |----------------------------|-----------------------------------------------|
 | WOMEN AS UNIT OF ANALYSIS

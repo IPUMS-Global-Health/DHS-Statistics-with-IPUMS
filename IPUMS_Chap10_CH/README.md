@@ -24,12 +24,15 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 | Variable                   | Description                                                                    |
 |----------------------------|--------------------------------------------------------------------------------|
 | CHILD AS UNIT OF ANALYSIS  | All variables from children data                                               |
+| CHILD DEMOGRAPHY -> CHILD DEMOGRAPHY CORE
 | kidalive		               | "Child is alive"                                                               |
+| CHILDHOOD ILLNESS -> CHILD RESPIRATORY ILLNESS OR FEVER
 | fevtrewaitdays 	           | "Number of days after fever started advice/treatment was sought"               |
 | couchestprob	             | "Child with cough has problem in chest or sinuses only"                        |
 | courecent		               | "Child had cough/difficult breathing recently"                                 |
 | coushortbre		             | "Child breathed with short, rapid breaths when had cough"                      |
 | fevrecent		               | "Child had fever in last two/four weeks"                                       |
+| CHILDHOOD ILLNESS -> SOURCE FOR RESPIRATORY TREATMENT, GENERAL
 | fevtrpubhp		             | "Source of fever/cough treatment: Public health post"                          |
 | fevtrprivdrug	             | "Source of fever/cough treatment: Private pharmacy, drug store, or dispensary" |
 | fevtrpubhos		             | "Source of fever/cough treatment: Public hospital"                             |
@@ -52,7 +55,9 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 | Variable                   | Description                                                                           |
 |----------------------------|---------------------------------------------------------------------------------------|
 | CHILD AS UNIT OF ANALYSIS  | All variables from children data                                                      |
+| CHILD DEMOGRAPHY ->  CHILD DEMOGRAPHY CORE
 | kidalive		               | "Child is alive"                                                                      |
+| CHILDHOOD ILLNESS -> DIARRHEA, GENERAL
 | diarrecent		             | "Child had diarrhea recently"                                                         |
 | diatrprivdr		             | "Source of diarrhea treatment: Private doctor"                                        |
 | diatrpubhp		             | "Source of diarrhea treatment: Health post (public)"                                  |
@@ -91,6 +96,7 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 | Variable                   | Description                                  |
 |----------------------------|----------------------------------------------|
 | CHILD AS UNIT OF ANALYSIS  | All variables from children data             |
+| CHILD ANTENATAL AND DELIVERY CARE -> CHILD DELIVERY CARE, GENERAL
 | birthsz			               | "Size of child at birth (subjective report)" |
 | birthwt			               | "Birthweight in kilos"                       |
 
@@ -99,11 +105,17 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 | Variable                   | Description                                                   |
 |----------------------------|---------------------------------------------------------------|
 | CHILD AS UNIT OF ANALYSIS  | All variables from children data                              |
+| GEOGRAPHY -> SINGLE SAMPLE GEOGRAPHY
 | region variable geo_CCYEAR | "Single sample geography variables"                           |
-| perweight		               | "Sample weight for persons"                                   |
-| age				                 | "Age"                                                         |                    
+| TECHNICAL -> IDENTIFIERS
 | caseid			               | "Sample specific respondent identifier"                       |
+| TECHNICAL -> WEIGHTS AND SUBSAMPLE SELECTION
+| perweight		               | "Sample weight for persons"                                   |
+| DEMOGRAPHIC -> CORE DEMOGRAPHIC
+| age				                 | "Age"                                                         |                    
+| CHILD DEMOGRAPHY ->  CHILD DEMOGRAPHY CORE
 | kidliveswith            	 | "Child lives with female respondent or others"                |
+| MATERNAL AND INFANT HEALTH -> GENERAL MATERNAL AND INFANT HEALTH
 | disposestool	             | "Disposal of youngest child's stools (when not using toilet)" |
 
 
@@ -112,22 +124,29 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 | Variable                   | Description                                                            |
 |----------------------------|------------------------------------------------------------------------|
 | CHILD AS UNIT OF ANALYSIS  | All variables from children data                                       |
+| CHILD DEMOGRAPHY ->  CHILD DEMOGRAPHY CORE
 | kidalive		               | "Child is alive"                                                       |
+| CHILD VACCINATION -> CHILD VACCINATION, GENERAL
 | healthcardkid 	           | "Child has health card"                                                |
+| CHILD VACCINATION -> OTHER VACCINATIONS
 | vacbcg			               | "Child received BCG (TB) vaccination"                                  |
+| CHILD VACCINATION -> DPT-HB-HIB VACCINATIONS
 | vacdpt1 or vacdptpen1 		 | "Child received DPT (diphtheria, pertussis, tetanus) 1 vaccination" or |
 |                            | "Child received DPT or Pentavalent (DPT-HepB-Hib) 1 vaccination"       |
 | vacdpt2 or vacdptpen2 		 | "Child received DPT (diphtheria, pertussis, tetanus) 2 vaccination" or |
 |                            | "Child received DPT or Pentavalent (DPT-HepB-Hib) 2 vaccination"       |
 | vacdpt3 or vacdptpen3 		 | "Child received DPT (diphtheria, pertussis, tetanus) 3 vaccination" or |
 |                            | "Child received DPT or Pentavalent (DPT-HepB-Hib) 3 vaccination"       |
+| CHILD VACCINATION -> POLIO VACCINATIONS
 | vacopv0		                 | "Child received oral polio 0 vaccination"                              |
 | vacopv1			               | "Child received oral polio 1 vaccination"                              |
 | vacopv2			               | "Child received oral polio 2 vaccination"                              |
 | vacopv3						         | "Child received oral polio 3 vaccination"                              |
+| CHILD VACCINATION -> PNEUMOCOCCAL VACCINATIONS
 | vacpneum1		               | "Child received pneumococcal 1 vaccination"                            |
 | vacpneum2		               | "Child received pneumococcal 2 vaccination"                            |
 | vacpneum3		               | "Child received pneumococcal 3 vaccination"                            |
+| CHILD VACCINATION -> OTAVIRUS VACCINATIONS
 | vacrota1		               | "Child received rotavirus 1 vaccination"                               |
 | vacrota2		               | "Child received rotavirus 2 vaccination"                               |
 | vacrota3		               | "Child received rotavirus 3 vaccination"                               |
@@ -136,5 +155,7 @@ Download the IPUMS datasets with the variables required (listed down below). Ins
 ### IPUMS_CH_KNOW_ORS.do
 | Variable                   | Description                                   |
 |----------------------------|-----------------------------------------------|
+| MATERNAL AND INFANT HEALTH -> ORS TREATMENT
 | diatrorsheard              | Women: "Heard of ORS for diarrhea treatment"  |
+| DEMOGRAPHIC (FOR MOTHER) -> FERTILITY
 | birthsin5yrs               | Women: "Number of births in last 5 years"     |
