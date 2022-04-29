@@ -124,7 +124,7 @@ Then, inside the main do file, in the areas commented, add in the path to the wo
 | DEMOGRAPHIC -> CORE DEMOGRAPHIC
 | agemn                      | Men: "Age"                                                                     |
 | age5yearmn                 | Men: "Age in 5-year groups"                                                    |
-| Household CHARACTERISTICS -> WEALTH INDEX
+| HOUSEHOLD CHARACTERISTICS -> WEALTH INDEX
 | wealthqmn                  | Men: "Household wealth in quintiles"                                           |
 | DEMOGRAPHIC -> MARRIAGE AND COHABITATION
 | marstatmn                  | Men: "Man's current marital or union status"                                   |
