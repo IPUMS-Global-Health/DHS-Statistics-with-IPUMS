@@ -22,7 +22,7 @@ Executing the main do file will generate tables using marriage and sex variables
 | agefrstmar                 | Women: "Age at first marriage orcohabitation" |
 | SEX PRACTICE AND ATTITUDES -> FIRST OR EVER SEXUAL EXPERIENCE
 | age1stseximp               | Women: "Age at first intercourse (imputed)"   |
-| Household CHARACTERISTICS -> WEALTH INDEX
+| HOUSEHOLD CHARACTERISTICS -> WEALTH INDEX
 | wealthq                    | Women: "Household wealth index in quintiles"  |
 | SOCIOECONOMIC -> EDUCATION
 | edachiever                 | Women: "Summary educational achievement"      |
@@ -41,7 +41,7 @@ Executing the main do file will generate tables using marriage and sex variables
 | age1stmarmn                | Men: "Age at first marriage or cohabitation"  |
 | SEX PRACTICE AND ATTITUDES -> FIRST OR EVER SEXUAL EXPERIENCE
 | age1stseximpmn             | Men: "Age at first intercourse (imputed)"     |
-| Household CHARACTERISTICS -> WEALTH INDEX
+| HOUSEHOLD CHARACTERISTICS -> WEALTH INDEX
 | wealthqmn                  | Men: "Household wealth index in quintiles"    |
 | SOCIOECONOMIC -> EDUCATION
 | edachievermn               | Men: "Man's summary educational achievement"  |
