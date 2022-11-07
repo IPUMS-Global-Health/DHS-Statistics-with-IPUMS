@@ -39,3 +39,5 @@ Optional: Describe your extract for easy organization between your multiple data
 <b>Step 3.</b> On your local drive, update the executing files with specifics-- the file name(s) with paths, the name(s) of your sample specific geography variable(s), and a map to your working directory. 
 
 <b>Step 4.</b> Run the Main file for your chapter.
+ 
+ 
